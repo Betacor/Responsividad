@@ -1,0 +1,16 @@
+img{
+    width: 500px;
+}
+
+
+@media (max-width:800px){
+    img{
+        width: 300px;
+    }
+    body{
+        background-color: rgb(99, 190, 160);
+    }
+    h1{
+        display: none;
+    }
+}
